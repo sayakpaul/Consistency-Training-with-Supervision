@@ -1,7 +1,7 @@
 # Consistency-Training-with-Supervision
 Contains experimentation notebooks for my Keras Example [Consistency Training with Supervision](https://keras.io/examples/vision/consistency_training/). This example also provides a template for performing semi-supervised / weakly supervised learning. 
 
-Promising results on CIFAR-10-C with the process shown in the example:
+Promising results on [CIFAR-10-C](https://github.com/hendrycks/robustness) with the process shown in the example:
 
 <p align="center">
 <img src=https://i.ibb.co/HBJkM9R/image.png></img>
